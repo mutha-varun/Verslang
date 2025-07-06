@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1083714681228",
+    "project_id": "verslang",
+    "storage_bucket": "verslang.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083714681228:android:4f4fa9fcb442a439903ea9",
+        "android_client_info": {
+          "package_name": "com.example.language_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1083714681228-hb6isv9alg2pbb4nmhcgobom1luf3lcj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADwr56gdFNJlwYMtSWkysbuPGdtuvLAbw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1083714681228-hb6isv9alg2pbb4nmhcgobom1luf3lcj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
